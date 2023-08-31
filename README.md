@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andras Nemeth</h1>
 <h3 align="center">A passionate junior full-stack developer from Budapest, Hungary</h3>
 
-- 🔭 I’m currently working on [CoverGlass](https://coverglassmanual.netlify.app)
+- Latest project: [CoverGlass](https://coverglass.hu)
 
 - 🌱 I’m currently learning **Figma**
 
