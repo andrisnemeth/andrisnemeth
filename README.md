@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andras Nemeth</h1>
 <h3 align="center">A passionate junior full-stack developer from Budapest, Hungary</h3>
 
+- Current project: [Bálint Analitika](https://balintanalitika.netlify.app)
 - Latest project: [CoverGlass](https://coverglass.hu)
 
 - 🌱 I’m currently learning **Figma**
